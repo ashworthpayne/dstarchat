@@ -1,7 +1,7 @@
 # dstarchat
 This allows keyboard to keyboard chat over dv using a ic-9700. It's quick and dirty.
 
-You need a pc connected to an ic-9700 via the usb port.
+You need a LINUX pc connected to an ic-9700 via the usb port.
 
 Open the ic-9700 advanced manual to page 11-23 and follow the instructions for enabling data in the radio.
 Enable fast data as described on page 11-24
