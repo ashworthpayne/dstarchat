@@ -7,6 +7,8 @@ Open the ic-9700 advanced manual to page 11-23 and follow the instructions for e
 
 Its not clearly stated, but fast data mode adds a data subcarrier for the digital voice mode. Its essentially a 9600 baud serial link. I've heard people complain about being unable to run a TNC at 9600 baud on the 9700. Presumably, Icom feels fast data mode is superior to FM + TNC.
 
+What is interersting about DV Fast Data mode is you can pick up the mic and talk at any time. And if a packet is ready, it will stay in queue until you are finished talking. 
+
 Download gui.go into a folder
 cd to said folder.
 DO: go mod init gui.go
